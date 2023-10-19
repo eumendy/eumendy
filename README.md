@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 
 
-<!--
-**eumendy/eumendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitória Bastos Mendes
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou com o objetivo de fazer um site
+
+ ### Você entrar em contato comigo 📫
+
+vitoria.bastos.mendes@escola.pr.gov.br
+
+@Vitória Mendes
+
+![](https://tenor.com/pt-BR/view/cat-hands-up-cute-baby-gif-21807363)
