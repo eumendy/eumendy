@@ -2,7 +2,7 @@
 
 Meu nome é Vitória Bastos Mendes
 
-- Estou estudando na Alura
+- Estou estudando na [Alura
 
 - Estou com o objetivo de fazer um site
 
@@ -12,4 +12,5 @@ vitoria.bastos.mendes@escola.pr.gov.br
 
 @Vitória Mendes
 
-![](https://tenor.com/pt-BR/view/cat-hands-up-cute-baby-gif-21807363)
+![](https://tenor.com/pt-BR/view/dancing-cat-jump-cat-cat-cute-cat-kitten-gif-12685105359798586488)
+
